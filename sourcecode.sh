@@ -1,5 +1,5 @@
 #!/bin/bash
-# calculate_m.sh
+#sourcecode.sh
 
 # Calculate the value of m
 
